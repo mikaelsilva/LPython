@@ -6,10 +6,6 @@ e='Sr. '
 
 #TESTANDO O GIT
 
-#CRIANDO APENAS FRASES ALEATORIAS PARA TESTAR NO GIT
-#HOME BRAKER
-#MUDEI
-
 
 
 #Strings - Valores nao podem variar de tipo
