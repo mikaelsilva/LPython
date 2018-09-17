@@ -6,6 +6,10 @@ e='Sr. '
 
 #TESTANDO O GIT
 
+#CRIANDO APENAS FRASES ALEATORIAS PARA TESTAR NO GIT
+#HOME BRAKER
+
+
 
 #Strings - Valores nao podem variar de tipo
 print '1 -> ',c,d
